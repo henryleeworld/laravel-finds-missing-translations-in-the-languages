@@ -1,4 +1,4 @@
-# Laravel 10 在地化語言中捕獲遺漏的翻譯
+# Laravel 11 在地化語言中捕獲遺漏的翻譯
 
 引入 larswiegers 的 laravel-translations-checker 套件來擴增在地化語言中捕獲遺漏的翻譯，獲得直接反饋在哪裡以及缺少哪些翻譯。
 
@@ -24,5 +24,5 @@ $ php artisan translations:check
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/AtCT79B.png)
+![](https://i.imgur.com/hsOetjE.png)
 > 支援在 `.php` 和 `.json` 語言檔中捕獲翻譯
